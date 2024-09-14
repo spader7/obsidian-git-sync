@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d83027b5dbd17e84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "föreläsningar/Data structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "föreläsningar/Data structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "föreläsningar/Data structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "föreläsningar/Data structures.md"
               }
             }
           }
@@ -147,8 +160,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31ac1f017b4b6768",
+  "active": "d83027b5dbd17e84",
   "lastOpenFiles": [
-    "Readme.md"
+    "Readme.md",
+    "föreläsningar/Data structures.md",
+    "how to",
+    "föreläsningar"
   ]
 }
