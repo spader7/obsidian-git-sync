@@ -8,7 +8,7 @@ while (gameIsRunning)
 ```
 (60fps = koden måste ta 17ms att gå igenom)
 
-delta time: △t = v *△s
+delta time: △t = v ×△s
 ```c#
 class Asteroid 
 {
@@ -20,3 +20,4 @@ public void Update(float deltaTime)
 	Position += Speed * deltaTime;
 }
 ```
+Delta time is used for when fps drops or is to high so taht the game loop takes different time. 
