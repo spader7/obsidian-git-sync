@@ -16,4 +16,8 @@ UpdateAllPositions(deltaTime);
 RenderWorld():
 }
 ```
-using SF
+
+```c#
+using SFML.System;
+```
+Adds SFML library to the code

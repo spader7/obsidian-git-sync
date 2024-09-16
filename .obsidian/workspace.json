@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SFML.md",
+                "file": "föreläsningar/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SFML.md",
+                "file": "föreläsningar/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SFML.md"
+                "file": "föreläsningar/Vectors.md"
               }
             }
           }
@@ -190,11 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f293fd070889ec0f",
+  "active": "f057765ee4a91cb4",
   "lastOpenFiles": [
+    "SFML.md",
     "föreläsningar/Vectors.md",
     "föreläsningar/Main Loop.md",
-    "SFML.md",
     "föreläsningar/Data structures.md",
     "föreläsningar/oklart.md",
     "game notes.md",
