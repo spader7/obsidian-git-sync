@@ -6,7 +6,7 @@ while (gameIsRunning)
 	RednerWorld();
 }
 ```
-(60fps = koden måste ta 17ms att gå igenom)
+(minst 60fps = koden måste ta 17ms att gå igenom)
 
 delta time: △t = v ×△s
 ```c#

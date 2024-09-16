@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3240d7cfeaf4b4c3",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "föreläsningar/Main Loop.md",
+                "file": "SFML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "föreläsningar/Main Loop.md",
+                "file": "SFML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "föreläsningar/Main Loop.md"
+                "file": "SFML.md"
               }
             }
           }
@@ -189,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38d05634ab52e801",
+  "active": "f293fd070889ec0f",
   "lastOpenFiles": [
-    "föreläsningar/Data structures.md",
     "föreläsningar/Main Loop.md",
+    "föreläsningar/Data structures.md",
     "föreläsningar/oklart.md",
     "föreläsningar/Vectors.md",
     "SFML.md",
