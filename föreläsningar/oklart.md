@@ -6,4 +6,4 @@ interface
 delegate
 
 ```
-vrf kan man ändra fps på spel över 60
+vrf kan man ändra fps på spel över 60fps

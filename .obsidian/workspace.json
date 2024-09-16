@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "föreläsningar/oklart.md",
+                "file": "föreläsningar/Main Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "föreläsningar/oklart.md",
+                "file": "föreläsningar/Main Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "föreläsningar/oklart.md",
+                "file": "föreläsningar/Main Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "föreläsningar/oklart.md"
+                "file": "föreläsningar/Main Loop.md"
               }
             }
           }
@@ -191,12 +191,12 @@
   },
   "active": "38d05634ab52e801",
   "lastOpenFiles": [
+    "föreläsningar/oklart.md",
     "föreläsningar/Main Loop.md",
     "game notes.md",
     "föreläsningar/Data structures.md",
     "SFML.md",
     "föreläsningar/Vectors.md",
-    "föreläsningar/oklart.md",
     "Readme.md",
     "how to",
     "föreläsningar"
