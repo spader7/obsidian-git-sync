@@ -21,3 +21,19 @@ public void Update(float deltaTime)
 }
 ```
 Delta time is used for when fps drops or is to high so taht the game loop takes different time. 
+
+from 1D to 2D
+```c#
+class Asteroid 
+{
+	public float Positiony;
+		public float Positionx;
+	public float Speedx;
+	public float Speedy;
+	public void Update(float deltaTime) 
+	{
+		PositionX += SpeedX * deltaTime;  
+		PositionY += SpeedY * deltaTime;  
+	}
+}
+```
