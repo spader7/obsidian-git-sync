@@ -20,36 +20,17 @@
             }
           },
           {
-            "id": "e35de76da1b28280",
+            "id": "a0c4d8bee89922e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game notes.md",
+                "file": "föreläsningar/Coordinate systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
-          {
-            "id": "f293fd070889ec0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SFML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "3240d7cfeaf4b4c3",
-        "type": "tabs",
-        "children": [
           {
             "id": "f057765ee4a91cb4",
             "type": "leaf",
@@ -62,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "föreläsningar/Vectors.md",
+                "file": "föreläsningar/Coordinate systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "föreläsningar/Vectors.md",
+                "file": "föreläsningar/Coordinate systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "föreläsningar/Vectors.md"
+                "file": "föreläsningar/Coordinate systems.md"
               }
             }
           }
@@ -190,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f057765ee4a91cb4",
+  "active": "a0c4d8bee89922e1",
   "lastOpenFiles": [
-    "SFML.md",
     "föreläsningar/Vectors.md",
+    "föreläsningar/Coordinate systems.md",
+    "SFML.md",
     "föreläsningar/Main Loop.md",
     "föreläsningar/Data structures.md",
     "föreläsningar/oklart.md",
