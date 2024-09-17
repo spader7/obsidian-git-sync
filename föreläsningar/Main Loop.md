@@ -46,6 +46,9 @@ while (window.IsOpen) {
 	window.Dispatch();
 }
 ```
-- window.clear:
-  clears the screen and makes it ready to print a new screen image
-- 
+- window.clear;
+	  clears the screen and makes it ready to print a new screen image
+- window.Draw(girl);
+		adds what pictures are going to be dispatched
+- window.Dispatch();
+		makes the game screen.
