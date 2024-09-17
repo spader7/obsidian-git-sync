@@ -27,7 +27,7 @@ from 1D to 2D
 class Asteroid 
 {
 	public float Positiony;
-		public float Positionx;
+	public float Positionx;
 	public float Speedx;
 	public float Speedy;
 	public void Update(float deltaTime) 
