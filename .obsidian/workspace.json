@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "keyboard events.md",
+                "file": "föreläsningar/keyboard events.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "keyboard events.md",
+                "file": "föreläsningar/keyboard events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "keyboard events.md",
+                "file": "föreläsningar/keyboard events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "keyboard events.md"
+                "file": "föreläsningar/keyboard events.md"
               }
             }
           }
@@ -184,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38c196eb5ce12c27",
+  "active": "9800fe32d61973fb",
   "lastOpenFiles": [
     "föreläsningar/Coordinate systems.md",
-    "keyboard events.md",
+    "föreläsningar/keyboard events.md",
     "föreläsningar/Main Loop.md",
     "föreläsningar/Vectors.md",
     "SFML.md",
