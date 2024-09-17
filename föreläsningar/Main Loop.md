@@ -37,3 +37,15 @@ class Asteroid
 	}
 }
 ```
+
+```c#
+while (window.IsOpen) {
+	window.DispatchEvents();
+	window.Clear(newcolor(131, 197, 235));
+	window.Draw(girl);
+	window.Dispatch();
+}
+```
+- window.clear:
+  clears the screen and makes it ready to print a new screen image
+- 
