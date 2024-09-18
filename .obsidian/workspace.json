@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boundary collision update.md",
+                "file": "föreläsningar/oklart.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "boundary collision update.md",
+                "file": "föreläsningar/oklart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "boundary collision update.md",
+                "file": "föreläsningar/oklart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "boundary collision update.md"
+                "file": "föreläsningar/oklart.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "015524d76ef539ea",
   "lastOpenFiles": [
-    "SFML.md",
     "boundary collision update.md",
+    "SFML.md",
     "föreläsningar/collision.md",
     "föreläsningar/Main Loop.md",
     "kollision",
