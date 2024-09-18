@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "föreläsningar/collision.md",
+                "file": "SFML.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "föreläsningar/collision.md",
+                "file": "SFML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "föreläsningar/collision.md",
+                "file": "SFML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "föreläsningar/collision.md"
+                "file": "SFML.md"
               }
             }
           }
@@ -198,8 +198,8 @@
   },
   "active": "b07eab5da02ffc9c",
   "lastOpenFiles": [
-    "föreläsningar/Main Loop.md",
     "föreläsningar/collision.md",
+    "föreläsningar/Main Loop.md",
     "kollision",
     "föreläsningar/Coordinate systems.md",
     "föreläsningar/keyboard events.md",

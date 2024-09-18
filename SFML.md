@@ -21,3 +21,9 @@ RenderWorld():
 using SFML.System;
 ```
 Adds SFML library to the code
+
+
+```c#
+shape = new Circleshape(30);
+```
+good to try code without having to apply a picture or model to the object.
