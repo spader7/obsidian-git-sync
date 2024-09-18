@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "föreläsningar/keyboard events.md",
+                "file": "föreläsningar/Main Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "föreläsningar/keyboard events.md",
+                "file": "föreläsningar/Main Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "föreläsningar/keyboard events.md"
+                "file": "föreläsningar/Main Loop.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "9800fe32d61973fb",
   "lastOpenFiles": [
+    "kollision",
     "föreläsningar/Coordinate systems.md",
     "föreläsningar/keyboard events.md",
     "föreläsningar/Main Loop.md",
