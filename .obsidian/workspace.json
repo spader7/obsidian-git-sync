@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b07eab5da02ffc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "föreläsningar/collision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "föreläsningar/Main Loop.md",
+                "file": "föreläsningar/collision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "föreläsningar/Main Loop.md",
+                "file": "föreläsningar/collision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "föreläsningar/Main Loop.md"
+                "file": "föreläsningar/collision.md"
               }
             }
           }
@@ -184,12 +196,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9800fe32d61973fb",
+  "active": "b07eab5da02ffc9c",
   "lastOpenFiles": [
+    "föreläsningar/Main Loop.md",
+    "föreläsningar/collision.md",
     "kollision",
     "föreläsningar/Coordinate systems.md",
     "föreläsningar/keyboard events.md",
-    "föreläsningar/Main Loop.md",
     "föreläsningar/Vectors.md",
     "SFML.md",
     "föreläsningar/Data structures.md",
