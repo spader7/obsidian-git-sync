@@ -3,7 +3,7 @@
 public void Update(float deltaTime)
 {
 	Vector2f newPosition = shape.Position + velocity
-	if (newPosition.Y + shape.Origin.Y)
+	if (newPosition.Y + shape.Origin.Y > 600)
 }
 ```
 
