@@ -1,0 +1,4 @@
+- Readonly
+  - Value is set only once, when the instance is created.
+- const 
+  - value is set only once, when the program is compiled.
