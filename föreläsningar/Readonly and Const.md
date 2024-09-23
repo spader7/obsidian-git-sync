@@ -1,6 +1,8 @@
 - Readonly
   - Value is set only once, when the instance is created.
-		Readonly variables are usually in ALL CAPS
+		readonly variables are usually in ALL CAPS
+		readonly evaluates during runtime, but only allows the value or instance to be set once.
+		- can be static or non-static
 - const 
   - value is set only once, when the program is compiled. it is a constant
 		cont variables are usually in ALL CAPS 
