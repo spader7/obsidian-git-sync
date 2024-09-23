@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game notes.md",
+                "file": "föreläsningar/Readonly and Const.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game notes.md",
+                "file": "föreläsningar/Readonly and Const.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game notes.md",
+                "file": "föreläsningar/Readonly and Const.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game notes.md"
+                "file": "föreläsningar/Readonly and Const.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "2ecdccfbcb41df29",
   "lastOpenFiles": [
+    "game notes.md",
     "föreläsningar/Readonly and Const.md",
     "switch statement.md",
     "föreläsningar/oklart.md",
@@ -174,7 +175,6 @@
     "föreläsningar/keyboard events.md",
     "föreläsningar/Vectors.md",
     "föreläsningar/Data structures.md",
-    "game notes.md",
     "Readme.md",
     "how to",
     "föreläsningar"

@@ -6,3 +6,8 @@ important for a game to feel responsive
   - Design classes to have as few midifiable states as possible.
   - split class into several to reduce number of states for each class
   - - use const and readonly as often as possible
+	 ### BALL
+  +radius : int {readOnly}
+  +posiiton: vec2
+
+immuteable member variables are arked wih {readOnly} in a class diagram
