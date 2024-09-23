@@ -8,9 +8,23 @@
 		cont variables are usually in ALL CAPS 
 
 
-
+### const
 ```c#
 float const GRAVITY = 500.0f
 velocite += new vector2f (0.0f 1.0f) * Gravty * deltatime
 ```
 - const makes GRAVITY a constant and cant be changed during run-time.
+### readonly
+```c#
+public readonly name = Console.Readline();
+
+
+static class Sword
+{
+private readonly int damage;
+public void woodSword
+{
+	damage = 10;
+}
+}
+```
