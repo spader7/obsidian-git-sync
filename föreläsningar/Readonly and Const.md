@@ -11,3 +11,4 @@
 float const GRAVITY = 500.0f
 velocite += new vector2f (0.0f 1.0f) * Gravty * deltatime
 ```
+- const makes GRAVITY a constant and cant be changed during run-time.
