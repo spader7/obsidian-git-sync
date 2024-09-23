@@ -9,5 +9,5 @@
 
 ```c#
 float const GRAVITY = 500.0f
-velocite = new vector2f (0.0f 1.0f) * Gravty * deltatime
+velocite += new vector2f (0.0f 1.0f) * Gravty * deltatime
 ```
