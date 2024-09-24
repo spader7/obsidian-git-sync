@@ -1,1 +1,4 @@
-assisciation => "knows abo"
+assisciation  "knows about"
+aggregation  "owns"
+Composition "made up of"
+inheritance "is"
