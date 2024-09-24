@@ -1,0 +1,1 @@
+- Inheritance should be used when the child lass represents a more specific version of the thing represente

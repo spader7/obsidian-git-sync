@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81947e8f4f8d8be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "föreläsningar/Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game notes.md",
+                "file": "föreläsningar/Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game notes.md",
+                "file": "föreläsningar/Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game notes.md"
+                "file": "föreläsningar/Inheritance.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ecdccfbcb41df29",
+  "active": "9800fe32d61973fb",
   "lastOpenFiles": [
-    "föreläsningar/Readonly and Const.md",
     "game notes.md",
+    "föreläsningar/Inheritance.md",
+    "föreläsningar/Readonly and Const.md",
     "switch statement.md",
     "föreläsningar/oklart.md",
     "boundary collision update.md",
