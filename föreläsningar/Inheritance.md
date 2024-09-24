@@ -18,19 +18,20 @@ class C : B
 
 good class
 ```c#
-class entity
+class Entity
 {
-vecrot2f =....
 Sprite sprite = new sprite();
+position = vector2f...
+velocity = vector2f...
 }
-class bulllet : entity
+class Bulllet : entity
 {
 Entity entity = new Bullet();
 entity.Position = new vector2f();
 entity.Velocity = new vector2f();
 
 Bullet bullet = new bullet();
-bullet.position = new vector2f
+bullet.position = new vector2f();
 bullet.velocity = new vector2f();
 }
 ```
