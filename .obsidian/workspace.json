@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Diagrams.md",
+                "file": "föreläsningar/oklart.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Diagrams.md",
+                "file": "föreläsningar/oklart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Diagrams.md",
+                "file": "föreläsningar/oklart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Diagrams.md"
+                "file": "föreläsningar/oklart.md"
               }
             }
           }
@@ -186,8 +186,8 @@
   },
   "active": "c2f488331b9aace5",
   "lastOpenFiles": [
-    "föreläsningar/Inheritance.md",
     "Class Diagrams.md",
+    "föreläsningar/Inheritance.md",
     "game notes.md",
     "föreläsningar/Readonly and Const.md",
     "switch statement.md",
