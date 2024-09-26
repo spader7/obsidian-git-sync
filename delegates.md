@@ -9,5 +9,9 @@ Food cake = Bake(cakeIngredient);
 //stores the result
 ```
 
+```c#
+Func<T, R>, Action<T>, Predicate<T>, etc
+```
+Delegates
 
 
