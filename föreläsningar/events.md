@@ -29,8 +29,39 @@ window.Keypressed += (s, e) =>
 	- s: variable containing the "sender"
 	- e: variable containing the argument
 ##encapsulation
-- 
+- shouldn't invoke events outside of the publishers class
+```C#
+class Door
+{
+	public event OpenHandler OpenEvent;
+}
 
+class Key
+{
+	public void Update() {
+	door.OpenEvent?.Invoke();
+	}
+}
+```
+- Keyword: event
+#delegates
+  - prevents invoking a delegate from outside the publisher
+  - similar to readonly, but for delegates
+##how it should look
+```C#
+class Door {
+	public Door(key key) {
+	key.Keypickup += OpenDoor;
+	}
+}
+class Key {
+	public event KeyPickupHandler KeyPickup;
+	...
+	public void Update(){
+		if (Collided)
+	}
+}
+```
 
 
 
