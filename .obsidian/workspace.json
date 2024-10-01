@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "föreläsningar/delegates.md",
+                "file": "events.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "föreläsningar/delegates.md",
+                "file": "events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "föreläsningar/delegates.md",
+                "file": "events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "föreläsningar/delegates.md"
+                "file": "events.md"
               }
             }
           }
@@ -222,8 +222,8 @@
   },
   "active": "44a0fc16494c301f",
   "lastOpenFiles": [
-    "events.md",
     "föreläsningar/delegates.md",
+    "events.md",
     "WritingAndFormating_Syntax.md",
     "how to/game design.md",
     "good info/boundary collision update.md",

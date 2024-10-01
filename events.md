@@ -11,4 +11,19 @@
   - publisher sends the signal of an event.
   - subscriber reacts to a signal and makes an action.
 
+### eventhandler
+```c#
+window.Keypressed += (s, e) =>
+// window.Keypressed is an eventHandler<KeyEventArgs>
+// (s, e) is an Action<object, Keypressed>
+// += we can assign additional functions to the same delegate vairable (adds them together as a list).
+```
+
+- ##descripiton
+	- window.Keypressed is a publisher;
+	- += subscribes to the event
+	- (s, e)
+	- s: variable containing the "sender"
+	- e: variable containing the argument
+
 ##Remember: coupling is bad - event reduce coupling
