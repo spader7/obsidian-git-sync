@@ -1,3 +1,4 @@
+#delegates
 ##Remember: coupling is bad - event reduce coupling
 
 ##event orientation.
