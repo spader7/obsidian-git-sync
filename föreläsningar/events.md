@@ -13,8 +13,9 @@
 - publisher and subscriber, independent from each other.
   - publisher sends the signal of an event.
   - subscriber reacts to a signal and makes an action.
+  - it shouldn't matter in which order a subscriber uses the publishers event.
 
-### eventhandler
+### eventhandler.
 ```c#
 window.Keypressed += (s, e) =>
 // window.Keypressed is an eventHandler<KeyEventArgs>
@@ -28,7 +29,7 @@ window.Keypressed += (s, e) =>
 	- (s, e)
 	- s: variable containing the "sender"
 	- e: variable containing the argument
-##encapsulation
+###encapsulation
 - shouldn't invoke events outside of the publishers class
 ```C#
 class Door
