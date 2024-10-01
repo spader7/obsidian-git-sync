@@ -28,7 +28,8 @@ window.Keypressed += (s, e) =>
 	- (s, e)
 	- s: variable containing the "sender"
 	- e: variable containing the argument
-
+##encapsulation
+- 
 
 
 
