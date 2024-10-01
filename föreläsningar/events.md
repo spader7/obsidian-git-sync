@@ -58,10 +58,12 @@ class Key {
 	public event KeyPickupHandler KeyPickup;
 	...
 	public void Update(){
-		if (Collided)
+		if (CollidedWith<Player>()) KeyPickup?.Invoke();
 	}
 }
 ```
+- Publisher is the owner of the event.
+  - example. key is the owner of keypickup. door subscribes to keypickup
 
 
 
