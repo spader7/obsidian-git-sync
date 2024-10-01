@@ -66,10 +66,19 @@ class Key {
 - Publisher is the owner of the event.
   - example. key is the owner of keypickup. door subscribes to keypickup
 # scheduled events
-- triggered when a certain amount of time has passed
-- can either fire once or as a part of a regular interval
+- triggered when a certain amount of time has passed.
+- can either fire once or as a part of a regular interval.
 - simple solution: Entity without any Sprite.
+```C#
+public event Action<Game> Action;
+oublic float Frequency {get; set;}
+private float timeLeft;
 
+...if ((timeLeft -= deltaTime) > 0) return;
+	Action?.Invoke(game);
+	timeLeft += Frequency;
+	//fire at regular intevral
+```
 
 
 ###skräp
