@@ -1,3 +1,5 @@
+##Remember: coupling is bad - event reduce coupling
+
 ##event orientation.
 
 - what is a event.
@@ -26,4 +28,11 @@ window.Keypressed += (s, e) =>
 	- s: variable containing the "sender"
 	- e: variable containing the argument
 
-##Remember: coupling is bad - event reduce coupling
+
+
+
+
+###skräp
+```c#
+if ()
+```
