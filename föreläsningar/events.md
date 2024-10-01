@@ -1,15 +1,15 @@
 #delegates
-##Remember: coupling is bad - event reduce coupling
+## Remember: coupling is bad - event reduce coupling
 
-##event orientation.
+## event orientation.
 
 - what is a event.
   - "once every 10 seconds..."
   - the ghost moves forward and turns 90 degrees....
 
-##subscribing and unsubscribing to event handles.
+## subscribing and unsubscribing to event handles.
 
-- ##*event handler* keep track of subscribers.
+- ## event handler* keep track of subscribers.
 - publisher and subscriber, independent from each other.
   - publisher sends the signal of an event.
   - subscriber reacts to a signal and makes an action.
@@ -23,13 +23,13 @@ window.Keypressed += (s, e) =>
 // += we can assign additional functions to the same delegate vairable (adds them together as a list).
 ```
 
-- ##descripiton
+- ## description.
 	- window.Keypressed is a publisher;
 	- += subscribes to the event
 	- (s, e)
 	- s: variable containing the "sender"
 	- e: variable containing the argument
-###encapsulation
+## encapsulation
 - shouldn't invoke events outside of the publishers class
 ```C#
 class Door
@@ -48,7 +48,7 @@ class Key
 #delegates
   - prevents invoking a delegate from outside the publisher
   - similar to readonly, but for delegates
-##how it should look
+## how it should look
 ```C#
 class Door {
 	public Door(key key) {
@@ -65,6 +65,10 @@ class Key {
 ```
 - Publisher is the owner of the event.
   - example. key is the owner of keypickup. door subscribes to keypickup
+# scheduled events
+- triggered when a certain amount of time has passed
+- can either fire once or as a part of a regular interval
+- simple solution: Entity without any Sprite.
 
 
 
