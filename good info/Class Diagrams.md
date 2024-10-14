@@ -3,7 +3,8 @@
 \+ public
 \# protected
 \+namn (namn:typ, namt:typ) : returtyp
-- ex. heroPosition (scene:Scene, position:Vector2f) : out Vector2f
+- ex. heroPosition (scene:Scene, position:Vector2f) : Vector2f
+- ex2. OneTurn(battle:Battle, player:Player): void
 name <- class
 _name_ <- Abstract class
 _IName_ <- Interface
