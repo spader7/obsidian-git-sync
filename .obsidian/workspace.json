@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "föreläsningar/events.md",
+                "file": "good info/Class Diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "föreläsningar/events.md",
+                "file": "good info/Class Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "föreläsningar/events.md",
+                "file": "good info/Class Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "föreläsningar/events.md"
+                "file": "good info/Class Diagrams.md"
               }
             }
           }
@@ -234,13 +234,13 @@
   },
   "active": "5c8fa97141103938",
   "lastOpenFiles": [
+    "föreläsningar/events.md",
     "good info/Class Diagrams.md",
     "good info/kollision/boundary collision update.md",
     "föreläsningar/Data structures.md",
     "föreläsningar/delegates.md",
     "tenta.md",
     "tenta",
-    "föreläsningar/events.md",
     "how to/WritingAndFormating_Syntax.md",
     "how to/game design.md",
     "good info/SFML.md",
