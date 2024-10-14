@@ -2,6 +2,9 @@
 \- Private
 \+ public
 \# protected
+\+namn (namn:typ, namt:typ) : returtyp
+- ex. heroPosition (scene:Scene, position:Vector2f) : out Vector2f
+
 association  "knows about"
 aggregation  "owns/has" ex. bil -> ägare
 Composition "made up of" ex. hjul -> bil
