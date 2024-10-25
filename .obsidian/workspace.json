@@ -39,12 +39,14 @@
             "id": "b8b0a11b30be9c35",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "föreläsningar/Readonly and Const.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Readonly and Const"
             }
           }
         ],
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "föreläsningar/Graphics.md",
+                "file": "föreläsningar/Readonly and Const.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Graphics"
+              "title": "Backlinks for Readonly and Const"
             }
           },
           {
@@ -139,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "föreläsningar/Graphics.md",
+                "file": "föreläsningar/Readonly and Const.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Graphics"
+              "title": "Outgoing links from Readonly and Const"
             }
           },
           {
@@ -166,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "föreläsningar/Graphics.md"
+                "file": "föreläsningar/Readonly and Const.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Graphics"
+              "title": "Outline of Readonly and Const"
             }
           }
         ]
@@ -192,14 +194,16 @@
   },
   "active": "b8b0a11b30be9c35",
   "lastOpenFiles": [
+    "föreläsningar/Data structures.md",
+    "föreläsningar/delegates.md",
+    "föreläsningar/Coordinate systems.md",
+    "föreläsningar/collision.md",
     "föreläsningar/Graphics.md",
     "föreläsningar/Sound.md",
     "good info/Class Diagrams.md",
     "Screenshot 2024-10-14 134850.png",
     "föreläsningar/events.md",
     "good info/kollision/boundary collision update.md",
-    "föreläsningar/Data structures.md",
-    "föreläsningar/delegates.md",
     "tenta.md",
     "tenta",
     "how to/WritingAndFormating_Syntax.md",
@@ -210,10 +214,8 @@
     "föreläsningar/oklart.md",
     "föreläsningar/Inheritance.md",
     "föreläsningar/Readonly and Const.md",
-    "föreläsningar/collision.md",
     "föreläsningar/Main Loop.md",
     "good info/kollision",
-    "föreläsningar/Coordinate systems.md",
     "föreläsningar/keyboard events.md",
     "föreläsningar/Vectors.md",
     "Readme.md",
