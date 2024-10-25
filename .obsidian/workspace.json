@@ -16,7 +16,9 @@
                 "file": "föreläsningar/Graphics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Graphics"
             }
           },
           {
@@ -28,11 +30,25 @@
                 "file": "föreläsningar/Sound.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sound"
+            }
+          },
+          {
+            "id": "b8b0a11b30be9c35",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "föreläsningar/Sound.md",
+                "file": "föreläsningar/Graphics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Graphics"
             }
           },
           {
@@ -115,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "föreläsningar/Sound.md",
+                "file": "föreläsningar/Graphics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Graphics"
             }
           },
           {
@@ -129,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "föreläsningar/Sound.md"
-              }
+                "file": "föreläsningar/Graphics.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Graphics"
             }
           }
         ]
@@ -160,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99641b522d6aec35",
+  "active": "b8b0a11b30be9c35",
   "lastOpenFiles": [
     "föreläsningar/Graphics.md",
     "föreläsningar/Sound.md",
