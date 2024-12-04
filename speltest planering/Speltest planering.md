@@ -6,22 +6,22 @@
 - vad har spelet för potential.
 - är det något som saknas.
 - se hur spelaren inteagerar med miljön och kontrollerna I spelet
-- ifall de Olika delarna I spelet passer med varandra
+- ifall de Olika delarna I spelet passar med varandra.
 
 
 ### frågor till spelaren
 
 - vilken atmosfär tycker du att spelet har?
 	- är det samma som vi var ute efter
-- vilken typ av musik hade du tyckt skulle passa?
+- (vilken typ av musik hade du tyckt skulle passa?)
 
 
 
-Vilka frågor/osäkerheter om spelet vill ni försöka undersöka/besvara? (t.ex. kring stämning, svårighetsgrad, story, audiovisuell upplevelse m.m.)
 
-Hur ska speltestet genomföras?
+- ### Hur ska speltestet genomföras?
 
-Vilka aspekter av spelet och spelandet ska ni observera och anteckna?
+- Vilka aspekter av spelet och spelandet ska ni observera och anteckna?
+	- 
 
 Vilka frågor vill ni ställa spelaren? Intervju?
 
