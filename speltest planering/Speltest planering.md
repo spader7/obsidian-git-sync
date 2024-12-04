@@ -9,6 +9,7 @@
 - ifall de Olika delarna I spelet passar med varandra.
 
 
+Vilka frågor vill ni ställa spelaren? Intervju?
 ### frågor till spelaren
 
 - vilken atmosfär tycker du att spelet har?
@@ -25,8 +26,8 @@
 		- är målet klart?
 	- Hur spelaren använder sig av abilities
 	- är kontrollerna klumpiga?
-- Vilka frågor vill ni ställa spelaren? Intervju?
-
-Vilka instruktioner ska ni ge spelaren? När? (I förväg? Om de fastnar?)
+- Vilka instruktioner ska ni ge spelaren? När? (I förväg? Om de fastnar?)
+	- Förklara kontrollerna och målet, antingen genom en ingame ruta eller besriv det för spelaren innan speltest
+	- 
 
 Hur länge ska/får de spela?
