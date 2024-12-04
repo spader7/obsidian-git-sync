@@ -13,7 +13,7 @@
 
 - vilken atmosfär tycker du att spelet har?
 	- är det samma som vi var ute efter
-- (vilken typ av musik hade du tyckt skulle passa?)
+- (Vilken typ av musik hade du tyckt skulle passa?)
 - vad tyckte vad bra/unikt med spelet. 
 - Vad tyckte du var dåligt eller saknades
 - Upplevde du att bakgrunden var distraherande eller irriterande.
