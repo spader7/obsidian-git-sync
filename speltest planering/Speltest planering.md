@@ -28,6 +28,6 @@ Vilka frågor vill ni ställa spelaren? Intervju?
 	- är kontrollerna klumpiga?
 - Vilka instruktioner ska ni ge spelaren? När? (I förväg? Om de fastnar?)
 	- Förklara kontrollerna och målet, antingen genom en ingame ruta eller besriv det för spelaren innan speltest
-	- 
-
-Hur länge ska/får de spela?
+	- Om de frågar om hjälp och beroende på om det är fast på något som ska vara tänkt vara svårt eller ifall det är ett bugg 
+- Hur länge ska/får de spela
+	- 5 till10 minuter
