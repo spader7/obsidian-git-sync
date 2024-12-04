@@ -15,6 +15,10 @@ Vilka frågor vill ni ställa spelaren? Intervju?
 - vilken atmosfär tycker du att spelet har?
 	- är det samma som vi var ute efter
 - (vilken typ av musik hade du tyckt skulle passa?)
+- vad tyckte vad bra med spelet eller stak ut för dig. 
+- Vad tyckte du var dåligt eller saknades
+- Upplevde du att bakgrunden var distraherande eller irriterande.
+- Upplevde du att ljudeffekerna
 
 
 
@@ -31,3 +35,26 @@ Vilka frågor vill ni ställa spelaren? Intervju?
 	- Om de frågar om hjälp och beroende på om det är fast på något som ska vara tänkt vara svårt eller ifall det är ett bugg 
 - Hur länge ska/får de spela
 	- 5 till10 minuter
+
+
+
+### Utförande
+
+Salarna är bokade i 4 timmar. Ni har ert pass antingen på förmiddagen (8-12) eller eftermiddagen (13-17) (se [schemat](https://his.instructure.com/courses/8158/pages/schema-speltest "Schema - Speltest") för vad som gäller din grupp). Du är välkommen att närvara och speltesta andra spel även under den andra halvan av dagen, men det är frivilligt.
+
+Tiden är fördelad enligt följande:
+
+- 1 timme för uppsättning
+    - Lägg in builden på datorerna.
+    - Testa stationerna. Build + hårdvara.
+- 2 timmar för speltestning (_det är under denna tid det är examinerande närvaro_)
+    - Observera speltest av ert spel.
+        - För anteckningar och intervjua speltestare.
+        - Viktigt att alla i gruppen observerar något speltest.
+    - Speltesta andra gruppers spel.
+        - Rotera i gruppen vilka som speltestar och vilka som observerar.
+        - Speltesta i första hand spelen i samma sal, i andra hand spelen i salar på samma våning
+- 1 timme efterarbete
+    - Plocka bort builden från datorn
+    - Renskriv anteckningar
+    - Diskutera / utvärdera i gruppen
