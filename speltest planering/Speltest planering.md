@@ -1,4 +1,4 @@
-- ### Vad vill ni ha ut av speltestningen?
+## Vad vill ni ha ut av speltestningen?
 
 - Är spelet ens roligt.
 	- Vad är står ut och vad är det som inte passar in.
@@ -9,21 +9,20 @@
 - ifall de Olika delarna I spelet passar med varandra.
 
 
-Vilka frågor vill ni ställa spelaren? Intervju?
-### frågor till spelaren
+## frågor till spelaren
 
 - vilken atmosfär tycker du att spelet har?
 	- är det samma som vi var ute efter
 - (vilken typ av musik hade du tyckt skulle passa?)
-- vad tyckte vad bra med spelet eller stak ut för dig. 
+- vad tyckte vad bra/unikt med spelet. 
 - Vad tyckte du var dåligt eller saknades
 - Upplevde du att bakgrunden var distraherande eller irriterande.
-- Upplevde du att ljudeffekerna
+- Upplevde du att ljudeffekerna var passande 
+- upplevdedu att kontrollerna kändes bekväma eller naturliga
 
 
 
-
-- ### Hur ska speltestet genomföras?
+## Hur ska speltestet genomföras?
 
 - Vilka aspekter av spelet och spelandet ska ni observera och anteckna?
 	- Hur spelaren navigerar runt banan.
