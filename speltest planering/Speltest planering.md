@@ -4,15 +4,16 @@
 	- Vad är står ut och vad är det som inte passar in.
 	- vad är det som spelaren anser vara våran "core mechanic"
 - vad har spelet för potential.
-- är det något som saknar.
+- är det något som saknas.
 - se hur spelaren inteagerar med miljön och kontrollerna I spelet
 - ifall de Olika delarna I spelet passer med varandra
 
 
 ### frågor till spelaren
 
-- vilken atmosfö
-
+- vilken atmosfär tycker du att spelet har?
+	- är det samma som vi var ute efter
+- vilken typ av musik hade du tyckt skulle passa?
 
 
 
