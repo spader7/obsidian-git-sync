@@ -38,6 +38,12 @@
 6. vad tyckte vad bra/unikt med spelet.
 7. Vad tyckte du var dåligt eller saknades
 - fastna på väggar
+- checkpoints beroende på typ av spel
+- bra att kameran förljer karaktären
+- början kändes mer som arcade. Senare blev det emr av ett platform spel
+- lite mer "commitment" i hoppen. Lite mindre skustering i hoppen. 
+- vänster musknapp som slingshot
+- lite roigare muspekare
 
 ## Spelare 3
 1. ilken atmosfär tycker du att spelet har?
