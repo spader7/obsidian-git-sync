@@ -22,11 +22,11 @@
 1. Upplevde du att ljudeffekerna var passande
 - svårt att avgöra om detär spiken eller slimen som gör ljud. lite mer dynamik i ljudeffekterna. Lite tydligare ljud på om slimen tar skada.
 3. upplevdedu att kontrollerna kändes bekväma eller naturliga
-- 
+- när karaktären fall köndes bra. klurigt slingshot system grafik för kraften som man har. snabbare movement om karaktären ska gå mycket. Ett spacebar hopp.
 5. vad tyckte vad bra/unikt med spelet.
 6. Vad tyckte du var dåligt eller saknades
 - Kameran ska följa med karaktären men banan är lite bred. Inget momentum för fall. eventuellt lite för mycket platformar utan snarare bör "free fall"a lite mer och mer av att dodga 
-- 
+- spacebar hopp.
 
 ## Spelare 2
 1. ilken atmosfär tycker du att spelet har?
@@ -37,6 +37,7 @@
 5. upplevdedu att kontrollerna kändes bekväma eller naturliga
 6. vad tyckte vad bra/unikt med spelet.
 7. Vad tyckte du var dåligt eller saknades
+- fastna på väggar
 
 ## Spelare 3
 1. ilken atmosfär tycker du att spelet har?
