@@ -11,10 +11,16 @@
 	- variation på colour scheme. typ som biomes
 	- lite mer commitment till slinghotten. Mindre kontroll i luften så att varje slingshot hop är mer "impactful"
 	- out of sync med spike ljudeffekten
-	- 
+	- fixa spike hitbox
+	- göra slingshotten mer klar med mindre variabler (ta bort att hastigheten scalar med musens position)
+	- göra en tydligare charge animation med slingshotten
+	- en restart knapp
+	- en bättre keyboard mapping så som att både shift och LMB är för charge
+	- förändbar keyboard mapping
 
 - är spelarna representiva för de spele är riktade för (målgrupp)
 	- ett casual level based game
 
 - vad hade ni kunnat gjort bättre i planeringen
 	- tydligare förklaring på kontrollerna 
+- Vad har speltestet resulterat i för ändringar i er planering och prioritering i spelet
