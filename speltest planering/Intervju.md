@@ -44,6 +44,8 @@
 - lite mer "commitment" i hoppen. Lite mindre skustering i hoppen. 
 - vänster musknapp som slingshot
 - lite roigare muspekare
+- rörliga hinder
+- välja riktning av spelet (arcade/platformer/jumpking)
 
 ## Spelare 3
 1. ilken atmosfär tycker du att spelet har?
