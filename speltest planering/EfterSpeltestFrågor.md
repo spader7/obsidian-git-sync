@@ -23,4 +23,8 @@
 
 - vad hade ni kunnat gjort bättre i planeringen
 	- tydligare förklaring på kontrollerna 
-- Vad har speltestet resulterat i för ändringar i er planering och prioritering i spelet
+- Vad har speltestet resulterat i för ändringar i er planering och prioritering i spelet?
+	- det har gjort det klarare vart vårat s
+
+- vad är den viktigaste lärdomen?
+	- alla spel är inte gjorda för alla. Vissa gillar saker som andra inte gillar alls.
