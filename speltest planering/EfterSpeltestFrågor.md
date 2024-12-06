@@ -24,7 +24,7 @@
 - vad hade ni kunnat gjort bättre i planeringen
 	- tydligare förklaring på kontrollerna 
 - Vad har speltestet resulterat i för ändringar i er planering och prioritering i spelet?
-	- det har gjort det klarare vart vårat s
+	- det har gjort det klarare vart vårat spel ska ta vägen, inriktningen. mycket av de vi tänkt blev "confrmed". Så som att vi ska göra ett "level based system" istället för ett endless mode och att variation i miljön beroende på level eller djup hade varit nice.
 
 - vad är den viktigaste lärdomen?
 	- alla spel är inte gjorda för alla. Vissa gillar saker som andra inte gillar alls.
