@@ -6,4 +6,5 @@
 - fick ni svar på de frågorna ni hade? om ja vilka
 	- Svar på slingshottens kontroll "scheme" och hur den fungerar
 	- eventuellt ha level baserat
-	- 
+
+- är spelarna representiva för de spele är riktade för (målgrupp)
