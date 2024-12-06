@@ -10,7 +10,7 @@
 7. Vad tyckte du var dåligt eller saknades
 
 
-## 1
+## Spelare 1
 1. ilken atmosfär tycker du att spelet har?
     - är det samma som vi var ute efter
 2. Upplever du att valet av musiken var passande?
@@ -21,7 +21,7 @@
 7. Vad tyckte du var dåligt eller saknades
 
 
-## 2
+## Spelare 2
 1. ilken atmosfär tycker du att spelet har?
     - är det samma som vi var ute efter
 2. Upplever du att valet av musiken var passande?
@@ -31,7 +31,7 @@
 6. vad tyckte vad bra/unikt med spelet.
 7. Vad tyckte du var dåligt eller saknades
 
-## 3
+## Spelare 3
 1. ilken atmosfär tycker du att spelet har?
     - är det samma som vi var ute efter
 2. Upplever du att valet av musiken var passande?
@@ -41,7 +41,7 @@
 6. vad tyckte vad bra/unikt med spelet.
 7. Vad tyckte du var dåligt eller saknades
 
-## 4
+## Spelare 4
 1. ilken atmosfär tycker du att spelet har?
     - är det samma som vi var ute efter
 2. Upplever du att valet av musiken var passande?
@@ -51,7 +51,7 @@
 6. vad tyckte vad bra/unikt med spelet.
 7. Vad tyckte du var dåligt eller saknades
 
-## 5
+## Spelare 5
 1. ilken atmosfär tycker du att spelet har?
     - är det samma som vi var ute efter
 2. Upplever du att valet av musiken var passande?
@@ -61,7 +61,7 @@
 6. vad tyckte vad bra/unikt med spelet.
 7. Vad tyckte du var dåligt eller saknades
 
-## 6
+## Spelare 6
 1. ilken atmosfär tycker du att spelet har?
     - är det samma som vi var ute efter
 2. Upplever du att valet av musiken var passande?
@@ -71,7 +71,7 @@
 6. vad tyckte vad bra/unikt med spelet.
 7. Vad tyckte du var dåligt eller saknades
 
-## 7
+## Spelare 7
 1. ilken atmosfär tycker du att spelet har?
     - är det samma som vi var ute efter
 2. Upplever du att valet av musiken var passande?
@@ -81,7 +81,7 @@
 6. vad tyckte vad bra/unikt med spelet.
 7. Vad tyckte du var dåligt eller saknades
 
-## 8
+## Spelare 8
 1. ilken atmosfär tycker du att spelet har?
     - är det samma som vi var ute efter
 2. Upplever du att valet av musiken var passande?
@@ -91,7 +91,7 @@
 6. vad tyckte vad bra/unikt med spelet.
 7. Vad tyckte du var dåligt eller saknades
 
-## 9
+## Spelare 9
 1. ilken atmosfär tycker du att spelet har?
     - är det samma som vi var ute efter
 2. Upplever du att valet av musiken var passande?
@@ -101,7 +101,7 @@
 6. vad tyckte vad bra/unikt med spelet.
 7. Vad tyckte du var dåligt eller saknades
 
-## 10
+## Spelare 10
 1. ilken atmosfär tycker du att spelet har?
     - är det samma som vi var ute efter
 2. Upplever du att valet av musiken var passande?
