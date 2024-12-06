@@ -12,13 +12,16 @@
 
 ## Spelare 1
 1. ilken atmosfär tycker du att spelet har?
-    - är det samma som vi var ute efter
-2. Upplever du att valet av musiken var passande?
-3. Upplevde du att bakgrunden var distraherande eller irriterande.
-4. Upplevde du att ljudeffekerna var passande
-5. upplevdedu att kontrollerna kändes bekväma eller naturliga
-6. vad tyckte vad bra/unikt med spelet.
-7. Vad tyckte du var dåligt eller saknades
+    - är det samma som vi var ute efter?
+    - svar: cure, sentent slime i ett avloppsystem som vill nedåt.
+    - hade varit nice med någon collectible
+1. Upplever du att valet av musiken var passande?
+	- rolig musik. Passande. Hade varit coolt om musiken ändrades beroede på hur långt ned du tar dig. Kanske har Biomer, eller en grafiskt
+2. Upplevde du att bakgrunden var distraherande eller irriterande.
+3. Upplevde du att ljudeffekerna var passande
+4. upplevdedu att kontrollerna kändes bekväma eller naturliga
+5. vad tyckte vad bra/unikt med spelet.
+6. Vad tyckte du var dåligt eller saknades
 
 
 ## Spelare 2
