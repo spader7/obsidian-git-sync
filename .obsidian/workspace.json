@@ -11,10 +11,14 @@
             "id": "b8b0a11b30be9c35",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "föreläsningar/delegates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "delegates"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "delegate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8b0a11b30be9c35",
+  "active": "ed93c387b6be6dc6",
   "lastOpenFiles": [
     "föreläsningar/delegates.md",
     "föreläsningar/events.md",
