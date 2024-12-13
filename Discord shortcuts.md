@@ -11,3 +11,11 @@
 - bloack quotes: >
 - Multiple codeblocks >>>
 
+
+
+Unscaled deltatime
+
+
+zooma kamera
+
+distorta view
