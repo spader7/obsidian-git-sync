@@ -3,7 +3,8 @@
 - Italics: * or _
 - underline italics \_\_*
 - Bold: **
-- Underline bold: \_
+- Underline bold: \_\_\*\*
+- 
 
 - single codeblock: \` 
 - Multiple codeblocks \`\`\`
