@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "good info/kollision/boundary collision update.md",
+                "file": "how to/WritingAndFormating_Syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "boundary collision update"
+              "title": "WritingAndFormating_Syntax"
+            }
+          },
+          {
+            "id": "d9e4ce60ab4fabf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5add943a786253d1",
@@ -163,37 +179,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8b0a11b30be9c35",
+  "active": "d9e4ce60ab4fabf8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "how to/WritingAndFormating_Syntax.md",
+    "how to/game design.md",
+    "föreläsningar/Sound.md",
+    "föreläsningar/Readonly and Const.md",
     "good info/switch statement.md",
+    "föreläsningar/Graphics.md",
     "föreläsningar/events.md",
     "föreläsningar/delegates.md",
+    "föreläsningar/Data structures.md",
+    "föreläsningar/Custom Error.md",
+    "föreläsningar/Main Loop.md",
+    "good info/SFML.md",
+    "good info/kollision/boundary collision update.md",
+    "good info/Class Diagrams.md",
     "Unity/StartCoroutine.md",
     "Unity/player moves with an object.md",
     "Unity/How to manipulate sprites in scripts.md",
-    "how to/WritingAndFormating_Syntax.md",
-    "how to/game design.md",
     "föreläsningar/Vectors.md",
-    "föreläsningar/Sound.md",
-    "föreläsningar/Readonly and Const.md",
-    "föreläsningar/Main Loop.md",
     "föreläsningar/keyboard events.md",
     "föreläsningar/Inheritance.md",
-    "föreläsningar/Graphics.md",
-    "föreläsningar/Data structures.md",
-    "föreläsningar/Custom Error.md",
     "föreläsningar/Coordinate systems.md",
     "föreläsningar/collision.md",
-    "good info/Class Diagrams.md",
     "Unity.md",
     "Unity",
     "Screenshot 2024-10-14 134850.png",
     "speltest planering/EfterSpeltestFrågor.md",
     "speltest planering/Intervju.md",
-    "speltest planering/Speltest planering.md",
     "speltest planering",
-    "good info/kollision/boundary collision update.md",
-    "tenta.md",
     "tenta",
     "good info",
     "good info/kollision",
