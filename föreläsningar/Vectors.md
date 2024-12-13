@@ -1,12 +1,8 @@
+#föreläsningar
 instead of repeatinf everything for 
 ```c#
-
-
-
-
-
-
-
+Vector2 //2d
+Vector3 //3d
 ```
 
 - A vector can be a pictured as a point,

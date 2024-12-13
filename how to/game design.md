@@ -1,3 +1,4 @@
+#HowTo
 important for a game to feel responsive
 
 #### unix philosophy

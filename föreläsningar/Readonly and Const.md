@@ -1,4 +1,4 @@
-
+#föreläsningar
 - Readonly
   - Value is set only once, when the instance is created.
 		readonly variables are usually in ALL CAPS

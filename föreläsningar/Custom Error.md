@@ -1,11 +1,4 @@
-
-```c#
-this.name = name;
-interface
-delegate
-
-```
-custom Error
+#föreläsningar
 ```c#
 else
 {

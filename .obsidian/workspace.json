@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "föreläsningar/delegates.md",
+                "file": "föreläsningar/events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "delegates"
+              "title": "events"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#föreläsningar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,37 +165,37 @@
   },
   "active": "b8b0a11b30be9c35",
   "lastOpenFiles": [
+    "föreläsningar/events.md",
     "föreläsningar/delegates.md",
     "Unity/StartCoroutine.md",
-    "föreläsningar/events.md",
-    "föreläsningar/Data structures.md",
-    "föreläsningar/Coordinate systems.md",
-    "föreläsningar/collision.md",
-    "good info/Class Diagrams.md",
-    "föreläsningar/keyboard events.md",
-    "föreläsningar/Inheritance.md",
     "Unity/player moves with an object.md",
     "Unity/How to manipulate sprites in scripts.md",
     "how to/WritingAndFormating_Syntax.md",
+    "how to/game design.md",
+    "föreläsningar/Vectors.md",
+    "föreläsningar/Sound.md",
+    "föreläsningar/Readonly and Const.md",
+    "föreläsningar/Main Loop.md",
+    "föreläsningar/keyboard events.md",
+    "föreläsningar/Inheritance.md",
+    "föreläsningar/Graphics.md",
+    "föreläsningar/Data structures.md",
+    "föreläsningar/Custom Error.md",
+    "föreläsningar/Coordinate systems.md",
+    "föreläsningar/collision.md",
+    "good info/Class Diagrams.md",
     "Unity.md",
     "Unity",
     "Screenshot 2024-10-14 134850.png",
     "speltest planering/EfterSpeltestFrågor.md",
     "speltest planering/Intervju.md",
     "speltest planering/Speltest planering.md",
-    "föreläsningar/Readonly and Const.md",
     "speltest planering",
-    "föreläsningar/Graphics.md",
-    "föreläsningar/Sound.md",
     "good info/kollision/boundary collision update.md",
     "tenta.md",
     "tenta",
-    "how to/game design.md",
     "good info/SFML.md",
-    "good info/switch statement.md",
     "good info",
-    "föreläsningar/oklart.md",
-    "föreläsningar/Main Loop.md",
     "good info/kollision",
     "how to",
     "föreläsningar"
