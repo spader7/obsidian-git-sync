@@ -1,5 +1,5 @@
 #föreläsningar
-#delegates
+[[delegates]]
 ## Remember: coupling is bad - event reduce coupling
 
 ## event orientation.
@@ -50,7 +50,7 @@ class Key
 }
 ```
 - Keyword: event
-#delegates
+[[delegates]]
   - prevents invoking a delegate from outside the publisher
   - similar to readonly, but for delegates
 ## how it should look
