@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "delegate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,9 +164,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed93c387b6be6dc6",
+  "active": "b8b0a11b30be9c35",
   "lastOpenFiles": [
     "föreläsningar/delegates.md",
+    "Unity/StartCoroutine.md",
     "föreläsningar/events.md",
     "föreläsningar/Data structures.md",
     "föreläsningar/Coordinate systems.md",
@@ -197,7 +198,6 @@
     "föreläsningar/oklart.md",
     "föreläsningar/Main Loop.md",
     "good info/kollision",
-    "föreläsningar/Vectors.md",
     "how to",
     "föreläsningar"
   ]
