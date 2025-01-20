@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "föreläsningar/Computer graphics/What is computer graphics.md",
+                "file": "föreläsningar/Computer graphics/What is computer graphics (overwiev of the course).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is computer graphics"
+              "title": "What is computer graphics (overwiev of the course)"
             }
           }
         ],
@@ -192,7 +192,7 @@
   "active": "f9dda7762666a3f0",
   "lastOpenFiles": [
     "föreläsningar/Programmering 1/collision.md",
-    "föreläsningar/Computer graphics/What is computer graphics.md",
+    "föreläsningar/Computer graphics/What is computer graphics (overwiev of the course).md",
     "föreläsningar/Programmering 1",
     "föreläsningar/Programmering 1/delegates.md",
     "föreläsningar/Computer graphics",

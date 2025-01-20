@@ -41,9 +41,31 @@
 	- time split between computer graphics and game analysis
 	- plan your studies based on the two courses
 ### Weeks plan
-- week 4 (fir)
+- week 4 (first week)
 	- 4 lectures (teory and terminology used thourgout the course)
 	- self studies: chapter 1-4 in the course book (the crate)
 	- optional: work on the practise assignment
 	- start working on the geometry Assignment
+	- week 6
+		- 1 lecture (rasterization, shading models, uv-maps) (maybe 2 lectures)
+		- first assignemnt deadline in unity
+			- procedurally generated geometry
+			- ...
+	- week 8
+		- 3 lectures (anti-aliasing, blending , light, transparency, shadows)
+		- readchapter 5-7 in the course bool
+		- pick a subject for the seminat from chapter 13-15
+	- week 10
+		- 1 lecture (performance, optimization, benhmaring)
+		- second assignment deadline in unity
+			- physical based rendering
+		- Hand in seminar abstract (march 7th)
+	- week 12
+		- Home xam (5 days)
+			- questions released on monday march 17th
+			- hand in friday march 21st
+		- computer graphics seminat
+			- group discussion session (2hr)
+			- Hand in seminat summary (group assignment)
+	
 
