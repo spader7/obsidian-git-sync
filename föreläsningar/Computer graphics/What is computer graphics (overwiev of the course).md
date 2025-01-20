@@ -61,11 +61,20 @@
 			- physical based rendering
 		- Hand in seminar abstract (march 7th)
 	- week 12
-		- Home xam (5 days)
+		- Home exam (5 days)
 			- questions released on monday march 17th
 			- hand in friday march 21st
 		- computer graphics seminat
-			- group discussion session (2hr)
-			- Hand in seminat summary (group assignment)
+			- group discussion session (2hrs)
+			- Hand in seminar summary (group assignment)
+
+### Home exam
+- 5 topics
+- select one question for each topic
+- 0, 1 ro 2 points per question
+- at least 1 point per topic is needed to pass
+- grade A-E based on total points (A = 9-10, B = 8, C = 7, D = 6, E = 5, F = <5)
+- study continuosly
+- READ THE COURSE MATERIAL!!!
 	
 
