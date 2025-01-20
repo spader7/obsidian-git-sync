@@ -73,8 +73,15 @@
 - select one question for each topic
 - 0, 1 ro 2 points per question
 - at least 1 point per topic is needed to pass
+- reference the book when presenting the facts (källhanvisning) (Harvard API reference style)
+	- Might be a good idea to reference other sources for deeper and expanded answers for 2 points.
+	- reference the vwr
 - grade A-E based on total points (A = 9-10, B = 8, C = 7, D = 6, E = 5, F = <5)
 - study continuosly
 - READ THE COURSE MATERIAL!!!
-	
+
+### Books
+- book is available online for free
+- physical copies at the library (can't borrow)
+- can buy physical copy
 
