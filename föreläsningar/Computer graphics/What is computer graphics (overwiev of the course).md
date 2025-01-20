@@ -43,7 +43,7 @@
 ### Weeks plan
 - week 4 (first week)
 	- 4 lectures (teory and terminology used thourgout the course)
-	- self studies: chapter 1-4 in the course book (the crate)
+	- self studies: chapter 1-4 in the course book
 	- optional: work on the practise assignment
 	- start working on the geometry Assignment
 	- week 6
@@ -88,12 +88,17 @@
 	- discuss the question from each abstract in the group
 - Summary
 	-  write a summary of the group discussion
+	- Should be written after the 2 hrs , but TAKE NOTES
 - Examples exist on canvas
 
 
 
-### Books
-- book is available online for free
-- physical copies at the library (can't borrow)
-- can buy physical copy
-
+### Book
+- ###  Real-Time Rendering (fourth Edition)
+	- book is available online for free
+	- physical copies at the library (can't borrow)
+	- can buy physical copy
+- Lectures only cover the introduction to each topic
+- you willsue the when you write your:
+	- seminat abstract
+	- home exam
