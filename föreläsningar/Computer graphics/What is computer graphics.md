@@ -27,7 +27,9 @@
 ### Assignments
 - 2 projects in Unity ( 2 weeks each(roughly))
 	- procedual Geometry
+		- work in pairs: (picking your own pairs)
 	- TBA (controland optimize rendering)
 - Scheduled Supervisions
 	- two groups, A & B
-	- Indivi
+	- Individual work with possibility to ask for help
+	- Even if you dont need help: check in with th tachers during the rocess
