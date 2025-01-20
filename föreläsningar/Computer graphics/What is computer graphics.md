@@ -30,10 +30,20 @@
 		- work in pairs: (picking your own pairs)
 	- TBA (controland optimize rendering)
 	- In the Course, we will use the Unity Game Engine. it is not  a course about Unity, all the techniqes and terminilogy can be used in any game engine.
-	- The verison available on the computes at the sch
 - Scheduled Supervisions
 	- two groups, A & B
 	- Individual work with possibility to ask for help
 	- Even if you dont need help: check in with th tachers during the rocess
 
+- Weekly overwiev
+	- 5 weeksfull time (10 weeks half time, 7.5 credits)
+	- scheduled eery other week
+	- time split between computer graphics and game analysis
+	- plan your studies based on the two courses
+### Weeks plan
+- week 4 (fir)
+	- 4 lectures (teory and terminology used thourgout the course)
+	- self studies: chapter 1-4 in the course book (the crate)
+	- optional: work on the practise assignment
+	- start working on the geometry Assignment
 
