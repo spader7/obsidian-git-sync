@@ -102,3 +102,4 @@
 - you willsue the when you write your:
 	- seminat abstract
 	- home exam
+- Sign in using your student ID student address
