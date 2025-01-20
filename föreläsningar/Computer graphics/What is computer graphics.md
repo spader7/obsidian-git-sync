@@ -29,7 +29,11 @@
 	- procedual Geometry
 		- work in pairs: (picking your own pairs)
 	- TBA (controland optimize rendering)
+	- In the Course, we will use the Unity Game Engine. it is not  a course about Unity, all the techniqes and terminilogy can be used in any game engine.
+	- The verison available on the computes at the sch
 - Scheduled Supervisions
 	- two groups, A & B
 	- Individual work with possibility to ask for help
 	- Even if you dont need help: check in with th tachers during the rocess
+
+
