@@ -1,5 +1,5 @@
 
-### About the Course
+## About the Course
 - Theory:
 	- Terminology
 	- concepts
@@ -75,10 +75,22 @@
 - at least 1 point per topic is needed to pass
 - reference the book when presenting the facts (källhanvisning) (Harvard API reference style)
 	- Might be a good idea to reference other sources for deeper and expanded answers for 2 points.
-	- reference the vwr
+	- reference the version of the book
 - grade A-E based on total points (A = 9-10, B = 8, C = 7, D = 6, E = 5, F = <5)
 - study continuosly
 - READ THE COURSE MATERIAL!!!
+
+### Seminars
+- individual written abstract
+	- select a topic from chapters 13, 14 or 15 in the course literature
+	- include a discussion question about the topic
+- Group discussion
+	- discuss the question from each abstract in the group
+- Summary
+	-  write a summary of the group discussion
+- Examples exist on canvas
+
+
 
 ### Books
 - book is available online for free
