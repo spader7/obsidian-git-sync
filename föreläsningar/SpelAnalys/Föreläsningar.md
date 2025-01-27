@@ -24,4 +24,9 @@
 - popular media (screen media, literary and cultural studies... including a game studies).
 - who/what is depicted and how?
 
-###Semiotics
+### Semiotics
+- Meaning of signs and communication through signs
+- Deconstruction of 'text'
+- Structuralist pproach
+- Roland Barthes: _Rhetoric of the image; Death of the author_
+- René Magritte: _This is not a pipe_ (Signife/signified)
