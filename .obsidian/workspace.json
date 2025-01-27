@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "What is computer graphics (overwiev of the course)"
             }
+          },
+          {
+            "id": "23706d9e5547bdea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "föreläsningar/SpelAnalys/Föreläsningar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Föreläsningar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,10 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9dda7762666a3f0",
+  "active": "23706d9e5547bdea",
   "lastOpenFiles": [
-    "föreläsningar/Programmering 1/collision.md",
+    "Untitled.canvas",
+    "föreläsningar/SpelAnalys/Föreläsningar.md",
     "föreläsningar/Computer graphics/What is computer graphics (overwiev of the course).md",
+    "föreläsningar/SpelAnalys",
+    "föreläsningar/Programmering 1/collision.md",
     "föreläsningar/Programmering 1",
     "föreläsningar/Programmering 1/delegates.md",
     "föreläsningar/Computer graphics",
@@ -205,7 +222,6 @@
     "föreläsningar/Programmering 1/Vectors.md",
     "good info/kollision/boundary collision update.md",
     "2024-12-20.md",
-    "Untitled.canvas",
     "Discord shortcuts.md",
     "how to/WritingAndFormating_Syntax.md",
     "how to/game design.md",
@@ -218,7 +234,6 @@
     "Unity/StartCoroutine.md",
     "Unity/player moves with an object.md",
     "Unity/How to manipulate sprites in scripts.md",
-    "föreläsningar/Programmering 1/keyboard events.md",
     "Unity",
     "Screenshot 2024-10-14 134850.png",
     "speltest planering",
