@@ -30,3 +30,19 @@
 - Structuralist pproach
 - Roland Barthes: _Rhetoric of the image; Death of the author_
 - René Magritte: _This is not a pipe_ (Signife/signified)
+
+
+## HemTenta
+### Let's play Analys
+- Videoessä
+	- Välja ett spel som vi ska spela igenom ovh välja perspektiv
+		- i "jag" - berättande form
+		- varför det valda spelet?
+		- Vilket perspektiv/problem spelet analyseras utifrån och varför?
+		- minst 3 exempel
+		- referera till använt litteratur
+		- max 10 min inspelning
+- Reflekterande text
+	- Maximalt tre sidor
+	- Beskrivning och reflektion av analysen i videoessän
+	- Resultat: hur väl man lyckats fång perspekti
