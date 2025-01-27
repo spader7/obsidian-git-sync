@@ -43,6 +43,10 @@
 		- referera till använt litteratur
 		- max 10 min inspelning
 - Reflekterande text
-	- Maximalt tre sidor
 	- Beskrivning och reflektion av analysen i videoessän
-	- Resultat: hur väl man lyckats fång perspekti
+		- Maximalt tre sidor
+		- Resultat: hur väl man lyckats fång perspektivet i analysen.
+		- referenser till teorier och terminologi i kurslitteraturen (minst 3 relevanta referenser).
+		- referenslista (utöver de tre sidorna)
+		- akademiskt skrivande (inte jag form)
+	
