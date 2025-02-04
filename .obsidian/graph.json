@@ -5,10 +5,10 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#föreläsningar  ",
+      "query": "tag:#föreläsningar",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 110,
-  "scale": 0.902395432767733,
-  "close": true
+  "scale": 1.7500962110113827,
+  "close": false
 }

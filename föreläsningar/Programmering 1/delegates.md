@@ -1,4 +1,4 @@
-#föreläsningar
+#Programmering1
 #### Custom delegate
 ```C#
 delegate Food MyRecipe(List<Ingredient> ingredients);
