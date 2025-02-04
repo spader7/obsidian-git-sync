@@ -14,7 +14,7 @@
 ### GPU
 - thousands of registers
 - hundreds of cores
-- simpler than a core in a cpu, but a lot m
+- simpler than a core in a cpu, but a lot more of them
 ### VRAM
 - The RAM for the GPU (sits inside the GPU)
 
