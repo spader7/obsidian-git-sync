@@ -1,4 +1,4 @@
-#föreläsningar
+#Programmering1 
 - Inheritance should be used when the child class represents a more specific version of the thing represents by the parent.
 - Ex. Vehicle => Car => Volvo
 
