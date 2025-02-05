@@ -18,3 +18,7 @@
 ### VRAM
 - The RAM for the GPU (sits inside the GPU)
 
+
+
+Look at mesh preview and see so that the verteces doesnt increase i count
+
