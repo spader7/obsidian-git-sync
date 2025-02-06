@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Graphics Hardware"
             }
+          },
+          {
+            "id": "6e9306ea7640b6c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "föreläsningar/Computer graphics/Rasterization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rasterization"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,10 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b387cff7a3b74a3b",
+  "active": "6e9306ea7640b6c5",
   "lastOpenFiles": [
-    "föreläsningar/Computer graphics/What is computer graphics (overwiev of the course).md",
     "föreläsningar/Computer graphics/Graphics Hardware.md",
+    "föreläsningar/Computer graphics/Rasterization.md",
+    "föreläsningar/Computer graphics/What is computer graphics (overwiev of the course).md",
     "föreläsningar/Programmering 1/Vectors.md",
     "föreläsningar/Programmering 1/tenta.md",
     "föreläsningar/Programmering 1/Sound.md",
@@ -248,7 +263,6 @@
     "how to/WritingAndFormating_Syntax.md",
     "how to/game design.md",
     "good info/switch statement.md",
-    "good info/SFML.md",
     "Unity",
     "Screenshot 2024-10-14 134850.png",
     "speltest planering",
