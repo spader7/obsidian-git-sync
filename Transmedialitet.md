@@ -4,3 +4,5 @@ Ett transmedialt projekt har en sammanhngande storyline som utspelar sig över o
 ### Spel bidrar i ett transmedialt projekt
 - Valmöjligheter
 - Tid
+- Omgivningen
+Ett spel kan erbjuda valmöligheter och du som spelare påverkar hur berättelsen berättas ch spelas ut. Du kan även få en mer "comprehensive view" av miljön och karaktärerna. Det är även ett helt annat tempo som spelet kan utspelas i än till exempel en film som måste hålla sig till att kunna trycka in hela storyn i dryga två timmar av 
