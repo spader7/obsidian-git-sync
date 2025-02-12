@@ -9,6 +9,6 @@ Ett spel kan erbjuda valmöligheter och du som spelare påverkar hur berättelse
 
 ## BerättarTeknik
 
-Programmering erbjuder implementationen av mekaniker. Eller som i tale of two brothers som utnyttjar två spakar för att 
+Programmering erbjuder implementationen av mekaniker. Eller som i tale of two brothers som utnyttjar mekanik för att stärka inlevelsen (två spakar, en per broder, vart en slutar fungera efter att ena brodern dör).
 
-ljud: ljud är fruktansvärt bra på att stärkaen spelupplevelse. Ljud ger "immersion" 
+ljud: ljud är fruktansvärt bra på att stärkaren spelupplevelse. Ljud ger "immersion" men också sätter tonen på hur situationen som karaktären är i (stressigt, glad, ledasmt).
