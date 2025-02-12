@@ -5,9 +5,9 @@ Ett transmedialt projekt har en sammanhngande storyline som utspelar sig över o
 - Valmöjligheter
 - Tid
 - Omgivningen
-Ett spel kan erbjuda valmöligheter och du som spelare påverkar hur berättelsen berättas ch spelas ut. Du kan även få en djupare syn av miljön och karaktärerna ifrån "berättelsen". Det är även ett helt annat tempo som spelet kan utspelas i än till exempel en film som måste hålla sig till att kunna trycka in hela storyn i dryga två timmar av filmtid. Eller böcker som inte heller inte gå för långsamt för att hålla läsarna engagerade. Medans i ett spel så kan man själv sätta tempot hur man vill. Man kan springa igenom ett spel men man kan också ta det lugnt och spendera en kvart på att lyssna på två "NPC"s konversation. Ett exempel på
+Ett spel kan erbjuda valmöligheter och du som spelare påverkar hur berättelsen berättas ch spelas ut. Ett exempel är hur i "Farcry 4" är hur sista bossen ber karaktären att vänta i fem minuter, vilket är helt frivilligt, men om du gör det så får du en helt nytt slut.
 
-Farcry 4 alternative ending. Wait for the boss
+Du kan även få en djupare syn av miljön och karaktärerna ifrån "berättelsen". Det är även ett helt annat tempo som spelet kan utspelas i än till exempel en film som måste hålla sig till att kunna trycka in hela storyn i dryga två timmar av filmtid. Eller böcker som inte heller inte gå för långsamt för att hålla läsarna engagerade. Medans i ett spel så kan man själv sätta tempot hur man vill. Man kan springa igenom ett spel men man kan också ta det lugnt och spendera en kvart på att lyssna på två "NPC"s konversation. Ett exempel 
 
 ## BerättarTeknik
 
