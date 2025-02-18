@@ -40,4 +40,14 @@ specular = max(0,^r*ê)p(p in square)
 - Height/Displacement
 	- used for Parallax mapping
 	- creates a sense of peth(fake sense)
-	- 
+		- requires low computational power
+	- Gray(0.5f) means "ground level"
+- Ambient Occlusion
+	- how much does the material self...
+- Emission
+	- is the material visible even if no light hits it
+	- often has an own light source
+- secondary maps
+	- second albedo/normal map
+	- applied on top of an eisting map to get more details
+	- is often repeated multiple times
