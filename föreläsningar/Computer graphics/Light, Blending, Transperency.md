@@ -52,3 +52,9 @@ specular = max(0,^r*ê)p(p in square)
 	- second albedo/normal map
 	- applied on top of an eisting map to get more details
 	- is often repeated multiple times
+
+### HDR
+higher dynamic range
+- can be higher than 100%
+- can bleed over other surfaces
+	- as when you look into the sun it blinds you, making other surface
