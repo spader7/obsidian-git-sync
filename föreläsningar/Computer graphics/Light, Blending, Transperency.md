@@ -19,3 +19,10 @@ cos(0) = î * ^n //i and n are 2 vectors
 ```
 diffues = max(0,î*^n)
 specular = max(0,^r*ê)p(p in square)
+
+### PBR mode.
+(physically-based rendering)
+- Texture based maps specify how light is affecting the material, one property per map	
+- four maps are common, but more can be used
+Unity 
+- 
