@@ -84,4 +84,12 @@ higher dynamic range
 ### aplha blending
 - the value of a pixel determines the opacity
 	- used to make intricate designs or semi transparent glowing orbs
-		- as you can "cut out" a form 
+		- as you can "cut out" a form on a texture map (like leaves) and make everything else exept the form fully transparent
+
+### Blending modes
+- 2 common modes
+	- normal/over
+	- additive
+- ### rendering order
+	- alpha blending is usually order dependent
+	- game ingines renders transparent objects after opaque objects and sorted back-to-front
