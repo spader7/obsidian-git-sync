@@ -63,4 +63,16 @@ higher dynamic range
 ### Global illumination 
 - pbr is local illumination
 - lightning beyond local calculations
-	- example: light bounces from one surface to another and so on. This makes it so that each surface gets multiple light rays from different objects as it bounces with different values, light has no end position as
+	- example: light bounces from one surface to another and so on. This makes it so that each surface gets multiple light rays from different objects as it bounces with different values, light has no end position as in pbr and hdr.
+	- local lightning just calculates the light of an object while global llumination also reflects the light to impact the surroundings
+		- local lightning
+			- takes the light value
+		- global illumination
+			- takes the light value and sends it back out with a different value depending on the objects material and reflection value 
+- very expensive
+
+- global light influence
+
+### baked lightning
+- 
+	- Calculate the lgihtning
