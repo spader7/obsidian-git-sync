@@ -14,5 +14,8 @@
 ```c#
 diffuse = cos(0) // where 0 is the angle
 diffuse = max(0, cos(0)) //max returns the max of 2 values
-```
 î= i(vector)/||i||(length)
+cos(0) = î * ^n //i and n are 2 vectors
+```
+diffues = max(0,î*^n)
+specular = max(0,^r*ê)p(p in square)
