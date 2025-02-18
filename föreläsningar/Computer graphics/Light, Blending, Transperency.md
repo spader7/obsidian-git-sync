@@ -80,4 +80,8 @@ higher dynamic range
 	- apply the lightmap on the teture 
 	- when rendering, apple the real time lighting on top of the lightmap
 		- is in a room with a torch, the surroundings is a lightmap while the character/moving objects are real time rendered
-	- 
+
+### aplha blending
+- the value of a pixel determines the opacity
+	- used to make intricate designs or semi transparent glowing orbs
+		- as you can "cut out" a form 
