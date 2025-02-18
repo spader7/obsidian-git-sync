@@ -57,4 +57,10 @@ specular = max(0,^r*ê)p(p in square)
 higher dynamic range
 - can be higher than 100%
 - can bleed over other surfaces
-	- as when you look into the sun it blinds you, making other surface
+	- as when you look into the sun it blinds you, making other surfaces glow/becom blurry
+- makes a suface able to almost glow when reflecting light (since its over 100%)
+	- if a mirror reflects the sun, you should use HDR to make the reflection show the correct light, blinding.
+### Global illumination 
+- pbr is local illumination
+- lightning beyond local calculations
+	- example: light bounces from one surface to another and so on. This makes it so that each surface gets multiple light rays from different objects as it bounces with different values, light has no end position as
