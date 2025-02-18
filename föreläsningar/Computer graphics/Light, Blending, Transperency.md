@@ -74,5 +74,10 @@ higher dynamic range
 - global light influence
 
 ### baked lightning
-- 
-	- Calculate the lgihtning
+- if the light is static
+	- Calculate the lightning
+	- save it as a lightmap
+	- apply the lightmap on the teture 
+	- when rendering, apple the real time lighting on top of the lightmap
+		- is in a room with a torch, the surroundings is a lightmap while the character/moving objects are real time rendered
+	- 
