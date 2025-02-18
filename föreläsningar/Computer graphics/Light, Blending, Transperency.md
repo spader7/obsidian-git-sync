@@ -25,7 +25,8 @@ specular = max(0,^r*ê)p(p in square)
 - Texture based maps specify how light is affecting the material, one property per map	
 - four maps are common, but more can be used
 #### Unity PBR shader
-- diffuse-term is based on Burley
+- diffuse-term is based on Burley (2012)
+- Speular-term is based on Walter, Marschner and Torrance (2007)
 
 - Albedo
 	- base color of the material when fully lit
@@ -43,7 +44,7 @@ specular = max(0,^r*ê)p(p in square)
 		- requires low computational power
 	- Gray(0.5f) means "ground level"
 - Ambient Occlusion
-	- how much does the material self...
+	- how much does the material self-shadow
 - Emission
 	- is the material visible even if no light hits it
 	- often has an own light source
