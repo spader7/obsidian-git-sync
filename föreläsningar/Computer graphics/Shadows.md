@@ -48,10 +48,32 @@
 	- point light
 		- generate a cube of shadow maps (6 cameras)
 - shadow map issues:
-- shadow acne/ self shadowing
-	- when the light angle is close to the same angle as a surface
-		- the surface wepth is covered by very few pixels on the shadowmap
-		- when a point on the wurface is rendered it will think some point on the surface are behin points on the same surface
-	- solution: 
-		- change the resolution on the shadow map
-		- z-bias
+	- shadow acne/ self shadowing
+		- when the light angle is close to the same angle as a surface
+			- the surface wepth is covered by very few pixels on the shadowmap
+			- when a point on the wurface is rendered it will think some point on the surface are behin points on the same surface
+		- solution: 
+			- change the resolution on the shadow map
+			- z-bias
+	- perspective aliasing
+		- when the perspective of the camera is perpendicular to the light
+	- ## shadow map resolution
+		- most issues with shadows can be somehow connected to the resolution of the shadow map
+			- does not mean sizing up will solve 
+
+
+
+
+
+
+```c#
+enum
+{
+vector3 1
+vector3 2
+vector3 3
+vector3 4
+}
+....
+
+```
