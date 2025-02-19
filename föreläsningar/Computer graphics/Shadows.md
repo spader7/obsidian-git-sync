@@ -61,7 +61,8 @@
 		- most issues with shadows can be somehow connected to the resolution of the shadow map
 			- does not mean sizing up will solve 
 		- clipping planes
-			- Camera clipping plaes decide how big the view-frustum should be.
+			- Camera clipping planes decide how big the view-frustum should be.
+				- view-frustum is how much of the view should be seen,  from near to far
 			- change the distance of the virtual camera (shadow map camera)
 
 
