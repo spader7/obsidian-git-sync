@@ -65,8 +65,20 @@
 				- view-frustum is how much of the view should be seen,  from near to far
 			- change the distance of the virtual camera (shadow map camera)
 - ### cancaded shadow maps
-	- make 2 cameras with differend clipping planes, one for near and one for far.
-		- then you can increase the resolution on the camera near
+	- split the camera with differend clipping planes, one for near and one for far.
+		- then you can increase the resolution on the shadowmap near and decrease it when far
+	- shadow cascades can be changed in the URP-Asset
+	- the shadow map can be visualized using te frame debugger, or the rendering debugger
+	- cascades can ve visualized using the rendering debugger
+### soft shadows
+- umbra
+	- no light wil reach
+- penumbra:
+	- the part that only some of the light reach
+- light volume
+	- instead of point
+	- creates soft shadows
+
 
 
 
