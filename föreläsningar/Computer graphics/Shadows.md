@@ -43,5 +43,10 @@
 - Different light generates different shadow maps
 	- spotlight
 	- directional light
+		- orthographic perspective camera
+			- follows the main camera
 	- point light
 		- generate a cube of shadow maps (6 cameras)
+- shadow map issues:
+- shadow acne/ self shadowing
+	- when the light angle is close to the same angle as a surface
