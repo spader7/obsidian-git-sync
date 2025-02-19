@@ -64,6 +64,9 @@
 			- Camera clipping planes decide how big the view-frustum should be.
 				- view-frustum is how much of the view should be seen,  from near to far
 			- change the distance of the virtual camera (shadow map camera)
+- ### cancaded shadow maps
+	- make 2 cameras with differend clipping planes, one for near and one for far.
+		- then you can increase the resolution on the camera near
 
 
 
