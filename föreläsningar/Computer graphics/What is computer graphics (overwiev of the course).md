@@ -37,7 +37,7 @@
 
 - Weekly overwiev
 	- 5 weeksfull time (10 weeks half time, 7.5 credits)
-	- scheduled eery other week
+	- scheduled every other week
 	- time split between computer graphics and game analysis
 	- plan your studies based on the two courses
 ### Weeks plan
