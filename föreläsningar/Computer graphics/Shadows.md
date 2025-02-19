@@ -60,6 +60,9 @@
 	- ## shadow map resolution
 		- most issues with shadows can be somehow connected to the resolution of the shadow map
 			- does not mean sizing up will solve 
+		- clipping planes
+			- Camera clipping plaes decide how big the view-frustum should be.
+			- change the distance of the virtual camera (shadow map camera)
 
 
 
@@ -75,5 +78,5 @@ vector3 3
 vector3 4
 }
 ....
-
+transfrom((3+i)restproducten av 3) //3 stället för 4 för startar på 0
 ```
