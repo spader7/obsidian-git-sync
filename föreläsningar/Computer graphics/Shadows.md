@@ -78,6 +78,13 @@
 - light volume
 	- instead of point
 	- creates soft shadows
+### reflections - reflection probes
+- create a reflection map in each direction
+- reflective materials samples from the map
+- in unity: a default map of just the skybox will be used if no probes are placed
+
+# read chapter 7
+
 
 
 
