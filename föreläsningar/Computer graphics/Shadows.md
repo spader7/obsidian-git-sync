@@ -23,3 +23,12 @@
 - can be combined with z-culling to optimize
 - bad at handling transparency
 - requires more memory access
+- Issue: z-fighting
+	- when 2 objects are too close, it becomes an issue of which object to render
+	- solution:
+		- move triangles slightky apart
+		- chage camera near/far settings
+		- increase z-bias
+		- turn off z-write for objects known to be behind everything else
+### shadows vs shading
+- shading: the intensityof thelight hitting each side of an object
