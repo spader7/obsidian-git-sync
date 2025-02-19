@@ -50,3 +50,8 @@
 - shadow map issues:
 - shadow acne/ self shadowing
 	- when the light angle is close to the same angle as a surface
+		- the surface wepth is covered by very few pixels on the shadowmap
+		- when a point on the wurface is rendered it will think some point on the surface are behin points on the same surface
+	- solution: 
+		- change the resolution on the shadow map
+		- z-bias
