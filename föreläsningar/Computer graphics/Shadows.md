@@ -31,4 +31,17 @@
 		- increase z-bias
 		- turn off z-write for objects known to be behind everything else
 ### shadows vs shading
-- shading: the intensityof thelight hitting each side of an object
+- shading: the intensity of the light hitting each side of an object
+- shadows: the way other objects obstruct the light source
+	- caster: the object obstructing the light
+	- reciever: the object that the shadow falls on
+- issue: hot to determine if an object is in shadow whe we are sending one object at a time to the gpu
+- solution shadow map
+### shadow maps
+- virtual camera drawn from the perspective of each light
+- depth buffer of that camera stored in a new render texture
+- Different light generates different shadow maps
+	- spotlight
+	- directional light
+	- point light
+		- generate a cube of shadow maps (6 cameras)
