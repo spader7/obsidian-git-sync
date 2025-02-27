@@ -5,4 +5,3 @@ Det finns många exempel på spel som utrycker eller förstärker normer på oli
 ...
 
 spel kan bilda egna inre kulturer i spelet som skapar sin egna miljö
-
