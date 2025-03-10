@@ -37,4 +37,10 @@
 		- karaktären
 		- potentiellt dialognummer
 		- sammanhang
-		- 
+
+### ReferensLista
+- bra för att:
+	- läsa vidare
+	- kontrollera referenser
+- formeln:
+	- författarens efternamn, initial. (årtal). Titel volym-utgåva länk \[hämtad åå-mm-dd] 
