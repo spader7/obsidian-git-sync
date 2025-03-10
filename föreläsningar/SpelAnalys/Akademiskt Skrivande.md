@@ -51,4 +51,7 @@
 		- Carr, D (2006). Games and narrative. I Carr, D., Buckingham, D & Burn, A. (red.) _Computer games, tex, narratice and play_. Cambridge: Polity, ss. 30-44.
 
 ### Referera till spel
-- Titel. Undertitel. Spelplattform [PC, playst]
+- Titel. Undertitel. Spelplattform \[PC, playstation...] publiceringsplats: utgivare
+- text: I _The Sims_ (2003) ......
+- Referens:
+	- _The Sims_ (2003). \[PC]. London: Electronic Arts Inc.
