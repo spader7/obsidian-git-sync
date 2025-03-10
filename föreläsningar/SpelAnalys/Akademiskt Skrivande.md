@@ -13,8 +13,17 @@
 	- i direkta citat:
 		- sidnummer sättas ut i referens
 		- exempel
-			- Aerseth (2001:35) anser att....
-			- ----- (Aares)
+			- Aarseth (2001:35) anser att....
+			- ----- (Aarseth 2001:35).
 ### plagiat
 
 ### språk
+- bra
+	- anser
+	- menar
+	- påpekar 
+	- hävdar
+- dåligt
+	- tycker
+	- tänker
+	- tror
