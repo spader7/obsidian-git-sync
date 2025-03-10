@@ -43,4 +43,12 @@
 	- läsa vidare
 	- kontrollera referenser
 - formeln:
-	- författarens efternamn, initial. (årtal). Titel volym-utgåva länk \[hämtad åå-mm-dd] 
+	- Digital utgåva
+	- författarens efternamn, initial. (årtal). Titel utginingsplats volym-utgåva länk \[hämtad åå-mm-dd] 
+	- fysisk utgåva
+	- # kolla i presentationen bild 31
+	- författarens efternamn, initial. (årtal. Titel) 
+		- Carr, D (2006). Games and narrative. I Carr, D., Buckingham, D & Burn, A. (red.) _Computer games, tex, narratice and play_. Cambridge: Polity, ss. 30-44.
+
+### Referera till spel
+- Titel. Undertitel. Spelplattform [PC, playst]
