@@ -5,7 +5,8 @@
 	- vem
 	- var
 	- varför
-- 
+- Gamestudies.org är fine
+- kolla så att det är peer reviewed
 ### plagiat
 
 ### språk
