@@ -27,3 +27,13 @@
 	- tycker
 	- tänker
 	- tror
+- Citat
+	- måste alltid markeras
+	- kortare citat omges av ""
+	- längre citat (<~3 rader) = eget stycke
+	- *ALLTID* markeras med sidnummer
+		- undantag: FInns inte sidnummer (webbsidor)
+	- citat från spel dialog
+		- karaktären
+		- potentiellt dialognummer
+		- sammanhang
