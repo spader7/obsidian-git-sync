@@ -27,7 +27,7 @@
 		- ska inte förmedla egna upplevelser eller åsikter
 		-  INTE jag tycker, tycker
 - DU = nej, inget du tilltal
-- Texten är inte reklam, propa
+- Texten är inte reklam, propaganda eller kritik. Texten är en opartisk analys av ett ämne kopplat till ett spel.
 
 - bra
 	- anser
