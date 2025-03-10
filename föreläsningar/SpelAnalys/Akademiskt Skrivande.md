@@ -18,6 +18,17 @@
 ### plagiat
 
 ### språk
+- opersnolighet
+- precision
+- koncentration
+
+- jag
+	- kan fungera
+		- ska inte förmedla egna upplevelser eller åsikter
+		-  INTE jag tycker, tycker
+- DU = nej, inget du tilltal
+- Texten är inte reklam, propa
+
 - bra
 	- anser
 	- menar
