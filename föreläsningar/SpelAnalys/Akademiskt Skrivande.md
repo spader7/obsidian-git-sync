@@ -37,3 +37,4 @@
 		- karaktären
 		- potentiellt dialognummer
 		- sammanhang
+		- 
