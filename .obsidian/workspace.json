@@ -132,9 +132,21 @@
               "icon": "lucide-file",
               "title": "Akademiskt Skrivande"
             }
+          },
+          {
+            "id": "cc9cfd17864f3ef1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -287,7 +300,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f263030b8437df6e",
+  "active": "cc9cfd17864f3ef1",
   "lastOpenFiles": [
     "föreläsningar/SpelAnalys/Seminarie 2.md",
     "föreläsningar/SpelAnalys/Föreläsningar.md",
